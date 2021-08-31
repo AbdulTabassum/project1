@@ -1,0 +1,12 @@
+
+li:hover {
+    border-style:groove;
+    background-color:rgb(243, 241, 232);
+    color: black;
+    border-radius: 5px;
+  }
+  .nav-link{
+    font-family:cursive;
+    font-size: larger;
+  }
+ 
